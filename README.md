@@ -9,7 +9,7 @@ This directory contains schema-agnostic data quality validation utilities that y
 ## Quick start
 
 ```bash
-git clone https://github.com/Lucface/dataguard.git
+git clone https://github.com/LucasCooperBey/dataguard.git
 cd dataguard
 bun install
 bunx tsx cli.ts --help
